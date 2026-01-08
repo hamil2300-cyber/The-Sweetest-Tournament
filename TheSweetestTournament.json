@@ -1,6 +1,6 @@
 {
 	"Name": "The Sweetest Tournament",
-	"Version": 1767138193,
+	"Version": 1767860883,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -28,6 +28,8 @@
 				"288",
 				"33",
 				"34",
+				"36",
+				"38",
 				"40",
 				"279",
 				"43",
@@ -121,10 +123,6 @@
 				"242"
 			],
 			"SurvivorComboPerkBans": [
-				[
-					"36",
-					"78"
-				],
 				[
 					"261",
 					"65"
@@ -516,7 +514,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"138"
+				"138",
+				"151"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -525,8 +524,6 @@
 				"24",
 				"246",
 				"273",
-				"36",
-				"38",
 				"39",
 				"44",
 				"261",
@@ -597,7 +594,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9",
+				"8",
 				"33"
 			],
 			"BalanceTiers": [
@@ -619,8 +616,6 @@
 				"246",
 				"27",
 				"273",
-				"36",
-				"38",
 				"39",
 				"44",
 				"261",
@@ -919,8 +914,6 @@
 				"246",
 				"27",
 				"273",
-				"36",
-				"38",
 				"39",
 				"44",
 				"261",
@@ -1011,8 +1004,6 @@
 				"24",
 				"246",
 				"273",
-				"36",
-				"38",
 				"39",
 				"44",
 				"261",
@@ -1404,10 +1395,14 @@
 			"KillerIndvPerkBans": [
 				"138",
 				"170",
-				"277"
+				"277",
+				"151"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"48",
+				"110"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1640,8 +1635,6 @@
 				"24",
 				"246",
 				"273",
-				"36",
-				"38",
 				"39",
 				"44",
 				"261",
@@ -2236,9 +2229,15 @@
 			"KillerIndvPerkBans": [
 				"138",
 				"170",
-				"277"
+				"277",
+				"151"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
