@@ -1,6 +1,6 @@
 {
 	"Name": "The Sweetest Tournament",
-	"Version": 1767860883,
+	"Version": 1769833081,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -12,6 +12,7 @@
 				"6",
 				"52",
 				"7",
+				"300",
 				"258",
 				"13",
 				"16",
@@ -24,6 +25,7 @@
 				"22",
 				"25",
 				"60",
+				"301",
 				"286",
 				"288",
 				"33",
@@ -34,6 +36,7 @@
 				"279",
 				"43",
 				"280",
+				"303",
 				"268",
 				"267",
 				"46",
@@ -69,11 +72,14 @@
 				"109",
 				"113",
 				"253",
+				"302",
 				"116",
+				"305",
 				"287",
 				"120",
 				"121",
 				"124",
+				"304",
 				"127",
 				"128",
 				"254",
@@ -97,6 +103,7 @@
 				"173",
 				"174",
 				"175",
+				"299",
 				"177",
 				"178",
 				"180",
@@ -115,10 +122,12 @@
 				"212",
 				"216",
 				"218",
+				"298",
 				"223",
 				"225",
 				"227",
 				"235",
+				"297",
 				"238",
 				"242"
 			],
@@ -1638,14 +1647,11 @@
 				"39",
 				"44",
 				"261",
-				"50",
 				"51",
 				"54",
 				"57",
 				"61",
-				"65",
 				"77",
-				"95",
 				"92",
 				"110",
 				"112"
@@ -2448,6 +2454,57 @@
 		},
 		{
 			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The First",
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
